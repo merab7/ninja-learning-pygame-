@@ -1,10 +1,13 @@
 {
-    "cSpell.words": [
-        "blit",
-        "colliderect",
-        "colorkey",
-        "KEYDOWN",
-        "KEYUP",
-        "pygame"
-    ]
+  "cSpell.words": [
+    "blit",
+    "colliderect",
+    "colorkey",
+    "KEYDOWN",
+    "KEYUP",
+    "offgrid",
+    "pygame",
+    "rects",
+    "Tilemap"
+  ]
 }
